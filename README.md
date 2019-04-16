@@ -14,8 +14,8 @@ Fun fact :  Noise behind "Cats Under The Rain" is actually
 
 ### Available Download
 
-* [Cats Under The Rain](https://github.com/FikriRNurhidayat/Music/blob/develop/Cats%20Under%20The%20Rain.wav)
-* [Stay Safe!](https://github.com/FikriRNurhidayat/Music/blob/develop/Stay%20Safe!.wav)
+* [Cats Under The Rain](https://github.com/FikriRNurhidayat/Music/raw/develop/Cats%20Under%20The%20Rain.wav)
+* [Stay Safe!](https://github.com/FikriRNurhidayat/Music/raw/develop/Stay%20Safe!.wav)
 
 ### Soundcloud
 
@@ -24,3 +24,21 @@ Fun fact :  Noise behind "Cats Under The Rain" is actually
 ### Youtube
 
 Coming Soon
+
+# Mastering State
+
+## The Void
+This track was actually made by a year ago, but I hold the release because I want to submit this to [Mau5trap](http://mau5trap.com/)
+
+### Available Download
+
+* [Original Mix](https://github.com/FikriRNurhidayat/Music/raw/Mastering/Music/WIP/The%20Void.mp3)
+* [Extended Mix](https://github.com/FikriRNurhidayat/Music/raw/Mastering/Music/WIP/The%20Void%20(Extended%20Mix).mp3)
+
+### Soundcloud
+
+Coming Soon
+
+### Youtube
+
+Not really
