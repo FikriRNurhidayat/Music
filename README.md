@@ -12,5 +12,11 @@ Fun fact :  Noise behind "Cats Under The Rain" is actually
             be together on a cafe called Radjiman. 
 ```
 
+### Available Download
+
 * [Cats Under The Rain](https://github.com/FikriRNurhidayat/Music/blob/develop/Cats%20Under%20The%20Rain.wav)
 * [Stay Safe!](https://github.com/FikriRNurhidayat/Music/blob/develop/Stay%20Safe!.wav)
+
+### Soundcloud Link
+
+[Cats Under The Rain](https://soundcloud.com/fikri-rahmat-nurhidayat/sets/cats-under-the-rain)
