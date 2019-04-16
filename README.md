@@ -14,8 +14,8 @@ Fun fact :  Noise behind "Cats Under The Rain" is actually
 
 ### Available Download
 
-* [Cats Under The Rain](https://github.com/FikriRNurhidayat/Music/raw/develop/Cats%20Under%20The%20Rain.wav)
-* [Stay Safe!](https://github.com/FikriRNurhidayat/Music/raw/develop/Stay%20Safe!.wav)
+* [Cats Under The Rain](https://github.com/FikriRNurhidayat/Music/raw/Mastering/Music/Cats%20Under%20The%20Rain.wav)
+* [Stay Safe!](https://github.com/FikriRNurhidayat/Music/raw/Mastering/Music/Stay%20Safe!.wav)
 
 ### Soundcloud
 
